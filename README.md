@@ -17,4 +17,5 @@ Term       | Link
 ---------- | ------
 [Read01](read01.md)   | class1
 [Read02a](read02a.md)  | class2
-[Read03b](read02b.md)  | class2
+[Read02b](read02b.md)  | class2
+[reading03](reading03.md) | Class3

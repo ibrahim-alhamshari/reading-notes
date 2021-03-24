@@ -1,21 +1,20 @@
 # reading-notes-
-## Growth mindset 
-any one can develop himself by the efforts and the intelligence , where the indeveduals by the continuous learning the will love the learning.
+## IBRAHIM ALHAMSHARI
 
-> Growth mindest:
-- Look at Difficult Situations as Opportunities
-- Focus on a Goal
+### progremmer
 
-> fixed mindest:
-- Want to “Appear” Smart
-- Scared of Challenges
+**My name is Ibrahim Alhamshari , I'm 23 years old , and I am from Jordan and live in Irbid.**
 
+> " Be paitiont to learn , and when you face any problem try your bist to solve it "
 
-![ Growth VS fixed mindest ](https://th.bing.com/th/id/R9d9bb0ad565136bcc741d28c6640fe9d?rik=U%2fCTXswm08fp3w&riu=http%3a%2f%2fgelinasjames.com%2fwp-content%2fuploads%2f2017%2f01%2fblog-6.gif&ehk=96uS66s2jTbaRwOKO8xJbZQV%2b%2fBmOl2Xmrd1y7awUiY%3d&risl=&pid=ImgRaw)
+* I work as a programmer and i can help you to solve all problems with your website.
 
-[ For more information open the link](http://gelinasjames.com/mindsets-shape-meetings/)
+![My photo](https://news.efinancialcareers.com/binaries/content/gallery/efinancial-careers/articles/2019/03/programmer.jpg)
 
-For me : 
-- Be pationt when you face a problem
-- Team work will encourage you the go on
-- when you have a problem faced it 
+[For more information about the price message me on this link](https://github.com/ibrahim-alhamshari/reading-notes-)
+
+Term       | Link
+---------- | ------
+[Read01](read01.md)   | class1
+[Read02a](read02a.md)  | class2
+[Read03b](read02b.md)  | class2

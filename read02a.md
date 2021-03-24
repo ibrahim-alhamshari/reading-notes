@@ -1,0 +1,3 @@
+Markdown is dealing mostly with the appearance and the format of the text , and it deal with other like putting pictures and create lists. It deal with the files which have the extension ( .md / .markdown) .
+
+GitHub has a version of Markdown syntax . with GitHub you can directly create websites and make a projects, where through it you can change and make editing for any thing you deal with inside GitHub , and you can add emoji to your writing and you can make paragraphs.

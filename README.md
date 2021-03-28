@@ -13,9 +13,11 @@
 
 [For more information about the price message me on this link](https://github.com/ibrahim-alhamshari/reading-notes-)
 
-Term       | Link
+Link       | class
 ---------- | ------
 [Read01](read01.md)   | class1
 [Read02a](read02a.md)  | class2
 [Read02b](read02b.md)  | class2
-[reading03](reading03.md) | Class3
+[read03](read03.md) | Class3
+[read04](read04.md)  |  class4
+[read05](read05.md)  |  class5

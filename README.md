@@ -21,3 +21,4 @@ Link       | class
 [read03](read03.md) | Class3
 [read04](read04.md)  |  class4
 [read05](read05.md)  |  class5
+[read06](read06.md)  | class6

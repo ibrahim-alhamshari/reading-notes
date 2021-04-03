@@ -11,7 +11,7 @@
 
 ![My photo](https://news.efinancialcareers.com/binaries/content/gallery/efinancial-careers/articles/2019/03/programmer.jpg)
 
-[For more information about the price message me on this link](https://github.com/ibrahim-alhamshari/reading-notes-)
+[For more information about me , you can visit my page on this link.](https://github.com/ibrahim-alhamshari/reading-notes-)
 
 Link       | class
 ---------- | ------

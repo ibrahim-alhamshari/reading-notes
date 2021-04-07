@@ -1,4 +1,4 @@
-### Creating links : We can creat the link by using <a> </a> .
+### Creating links : We can creat the link by using `<a> </a> `.
 > Example : `<a href=" ........." target =" "> Any name</a>`
 **we use the href attribute to  write the link. and between the opining and the closing tage we add the name of that link. and if you want to open the link in anew window you just have to use target after href.**
 

@@ -7,6 +7,7 @@
 
 
 ### Search Engine Optimization (SEO) : In simple terms, it means the process of improving the site to increase its visibility for relevant searches. where you can increase the visibility by many keys in your page (Seven keys) , these keys is the words might people search on to find your website .
+
 > The seven keys are: 
 - 1: Page Title
 - 2: URL / Web Address

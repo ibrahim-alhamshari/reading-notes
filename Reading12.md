@@ -12,3 +12,8 @@
 * textAlign = value
 * textBaseline = value
 * direction = value
+
+***Resources***
+- https://developer.mozilla.org
+- W3schools.com
+- https://www.webdesignerdepot.com

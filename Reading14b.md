@@ -1,0 +1,3 @@
+### Group norms : Norms are the traditions, behavioral standards that adjust how we deal when we work together. Where avoiding the disagreement is more valuable than debate. where if we  avoid any debate that will lead us to be closer to the success.
+
+### The right norms could raise a group’s collective intelligence, whereas the wrong norms could hobble a team, even if individually, all the members were exceptionally clever.

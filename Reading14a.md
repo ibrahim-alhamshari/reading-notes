@@ -1,6 +1,3 @@
-### Group norms : Norms are the traditions, behavioral standards that adjust how we deal when we work together. Where avoiding the disagreement is more valuable than debate. where if we  avoid any debate that will lead us to be closer to the success.
-
-### The right norms could raise a group’s collective intelligence, whereas the wrong norms could hobble a team, even if individually, all the members were exceptionally clever.
 
 ### The `transform` property applies a **2D** or **3D** transformation to an element. This property allows you to *rotate, scale, move, skew*, etc., elements.
 
@@ -15,3 +12,24 @@
 
 ### `animation` move the element with number of iterations in a specific way , It used mostly with `transition` to make the element more controlled. We use `@keyframes` to set multiple points at which an element should undergo a transition.
 
+> Example :
+> `.stage:hover .ball {`
+ ` animation-name: slide;` // **To give the element a name.** 
+  `animation-duration: 2s;` //**property defines how long an animation should take to complete one cycle.**
+  `animation-timing-function: ease-in-out;` // **Specify the speed curve of an animation.**
+  `animation-delay: .5s;` // **Start the animation after 0.5 second**
+`}`
+> `@keyframes slide {` // **Here is the animation code.**
+  `0% {`
+    `left: 0;`
+    `top: 0;`
+  `}`
+  `50% {`
+    `left: 244px;`
+    `top: 100px;`
+  `}`
+  `100% {`
+    `left: 488px;`
+    `top: 0;`
+ ` }`
+`}`

@@ -20,6 +20,7 @@
 > high and weidth are parameters.
 
 ### Pair program benifits:
+**It is a technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator reviews each line of code as it is typed in. The two programmers switch roles frequently.**
 - pair programing takes slightly longer, but produces higher-quality code that doesn’t require later effort in troubleshooting and debugging.
 - pair program it’s often actually more efficient than two people working on separate features. When coming up with ideas and discussing solutions out loud, two programmers may come to a solution faster than one programmer on their own. 
 - When two programmers focus on the same code, the experience is more engaging and both programmers are more focused than if they were working alone.

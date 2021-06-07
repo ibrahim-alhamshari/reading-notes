@@ -57,3 +57,4 @@ Link       | Classes (For the level 301)
 ---------- | ------
 [Reading01](Reading01C3.md)   | Class1
 [Reading02](Reading02C3.md)   | Class2
+[Reading03](Reading03C3.md)   | Class2

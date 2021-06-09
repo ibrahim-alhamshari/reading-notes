@@ -21,13 +21,13 @@
 
 Link       | class (For the level 102)
 ---------- | ------
-[Read01](read01.md)   | class1
-[Read02a](read02a.md)  | class2
-[Read02b](read02b.md)  | class2
-[read03](read03.md) | Class3
-[read04](read04.md)  |  class4
-[read05](read05.md)  |  class5
-[read06](read06.md)  | class6
+[Read01](102/read01.md)   | class1
+[Read02a](102/read02a.md)  | class2
+[Read02b](102/read02b.md)  | class2
+[read03](102/read03.md) | Class3
+[read04](102/read04.md)  |  class4
+[read05](102/read05.md)  |  class5
+[read06](102/read06.md)  | class6
 
 #
 > We starting today(4/4/2021) the level 201 , and these are the new reading notes.
@@ -35,26 +35,28 @@ Link       | class (For the level 102)
 
 Link       | Classes (For the level 201)
 ---------- | ------
-[Reading01](Reading01.md)   | Class1
-[Reading02](Reading02.md)   | Class2
-[Reading03](Reading03.md)   | Class3
-[Reading04](Reading04.md)   | Class4
-[Reading05](Reading05.md)   | Class5
-[Reading06](Reading06.md)   | Class6
-[Reading07](Reading07.md)   | Class7
-[Reading08](Reading08.md)   | Class8
-[Reading09](Reading09.md)   | Class9
-[Reading10](Reading10.md)   | Class10
-[Reading11](Reading11.md)   | Class11
-[Reading12](Reading12.md)   | Class12
-[Reading13](Reading13.md)   | Class13
-[Reading14a](Reading14a.md) | Class14
-[Reading14b](Reading14b.md) | Class15
+[Reading01](201/Reading01.md)   | Class1
+[Reading02](201/Reading02.md)   | Class2
+[Reading03](201/Reading03.md)   | Class3
+[Reading04](201/Reading04.md)   | Class4
+[Reading05](201/Reading05.md)   | Class5
+[Reading06](201/Reading06.md)   | Class6
+[Reading07](201/Reading07.md)   | Class7
+[Reading08](201/Reading08.md)   | Class8
+[Reading09](201/Reading09.md)   | Class9
+[Reading10](201/Reading10.md)   | Class10
+[Reading11](201/Reading11.md)   | Class11
+[Reading12](201/Reading12.md)   | Class12
+[Reading13](201/Reading13.md)   | Class13
+[Reading14a](201/Reading14a.md) | Class14
+[Reading14b](201/Reading14b.md) | Class15
 
 
 ## Things I want to know more about
 Link       | Classes (For the level 301)
 ---------- | ------
-[Reading01](Reading01C3.md)   | Class1
-[Reading02](Reading02C3.md)   | Class2
-[Reading03](Reading03C3.md)   | Class2
+[Reading01](301/Reading01.md)   | Class1
+[Reading02](301/Reading02.md)   | Class2
+[Reading03](301/Reading03.md)   | Class3
+[Reading04](301/Reading04.md)   | class4
+[Reading05](301/reading05.md)   | class5

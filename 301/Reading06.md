@@ -36,7 +36,7 @@
 - Greater efficiency , Engaged collaboration, Learning from fellow students.
 
 ## How does pair programming work?
-- some one is the navigaror which gives the commands to the driver that writes the code in his computer .
+- some one is the navigator which gives the commands to the driver that writes the code in his computer .
 
 ## Resources :
 - https://www.sitepoint.com/an-introduction-to-node-js

@@ -30,10 +30,10 @@
 - ## pair programming
 
 ## What are the 6 reasons for pair programming?
-* great efficncy, engage collaboration ,lerning from students, social skills,job interview readiness , work redaniss.
+*Greater efficiency , Engaged collaboration, Learning from fellow students, Social skills, Job interview readiness, Work environment readiness.*
 
 ## In your experience, which of these reasons have you found most beneficial?
-- great efficncy, engage collaboration ,lerning from students.
+- Greater efficiency , Engaged collaboration, Learning from fellow students.
 
 ## How does pair programming work?
 - some one is the navigaror which gives the commands to the driver that writes the code in his computer .

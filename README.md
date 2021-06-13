@@ -60,3 +60,4 @@ Link       | Classes (For the level 301)
 [Reading03](301/Reading03.md)   | Class3
 [Reading04](301/Reading04.md)   | class4
 [Reading05](301/reading05.md)   | class5
+[Reading06](301/Reading06.md) | Class6

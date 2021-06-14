@@ -20,5 +20,5 @@
 ## 7- What does PATCH do?
 > * If a system wants to do partial updates to something in another system, it'll hopefully use PATCH.
 
-## Resorces : 
+## Resources : 
 - https://gist.github.com/brookr/5977550

@@ -8,7 +8,7 @@
 ***Machine code is a language that CPUs can understand. It is purely digital, meaning made up of digits.***
 
 ## 3- What does it mean that node is a JavaScript runtime?
-- version of the V8 engine we can exute it on our computer
+- version of the V8 engine we can execute it on our computer
 
 ## 4- What is npm?
 - node package manager

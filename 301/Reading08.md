@@ -35,3 +35,8 @@
 
 ## How would you match your name using RegEx?
 - If we choose to put a name to the groups (using (?<foo>...)) we will be able to retrieve the group values using the match result like a dictionary where the keys will be the name of each group.
+
+### *Resorces :*
+- https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
+- https://regexr.com/
+- https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285

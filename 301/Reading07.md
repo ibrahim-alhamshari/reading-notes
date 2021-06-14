@@ -1,3 +1,4 @@
+
 ## 1- Who is Roy Fielding?
 -  He helped write the first web servers, that sent documents across the internet
 
@@ -18,3 +19,6 @@
 
 ## 7- What does PATCH do?
 > * If a system wants to do partial updates to something in another system, it'll hopefully use PATCH.
+
+## Resorces : 
+- https://gist.github.com/brookr/5977550

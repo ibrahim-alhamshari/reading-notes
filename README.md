@@ -53,8 +53,8 @@ Link       | Classes (For the level 201)
 
 
 ## Things I want to know more about
-Link       | Classes (For the level 301)
----------- | ------
+Link        | Classes (For the level 301)
+----------  | ------
 [Reading01](301/Reading01.md)   | Class1
 [Reading02](301/Reading02.md)   | Class2
 [Reading03](301/Reading03.md)   | Class3

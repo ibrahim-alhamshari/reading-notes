@@ -4,7 +4,7 @@
 ## 2- REST APIs are designed around a __resources__.
 
 
-## 3- What is an identifer of a resource? Give an example.
+## 3- What is an identifier of a resource? Give an example.
 - It is a URI that uniquely identifies that resource. For example, the URI for a particular customer order might be:
 `https://adventure-works.com/orders/1`
 
@@ -36,7 +36,7 @@
 ## How would you match your name using RegEx?
 - If we choose to put a name to the groups (using (?<foo>...)) we will be able to retrieve the group values using the match result like a dictionary where the keys will be the name of each group.
 
-### *Resorces :*
+### *Resources :*
 - https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
 - https://regexr.com/
 - https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285

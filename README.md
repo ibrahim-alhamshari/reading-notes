@@ -64,3 +64,4 @@ Link        | Classes (For the level 301)
 [Reading07](301/Reading07.md) | Class7
 [Reading08](301/Reading08.md) | Class8
 [Reading09](301/Reading09.md) | Class9
+[Reading10](301/Reading10.md)   | class10

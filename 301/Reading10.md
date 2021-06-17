@@ -42,8 +42,12 @@ thirdFunction();
 ### 4- What is a ‘tyep error’?
 -  this types of errors show up when the types (number, string and so on) you are trying to use or access are incompatible, like accessing a property in an undefined type of variable.
 
-### What is a breakpoint?
+### 5- What is a breakpoint?
 - putting a debugger statement in your code in the line you want to break.
 
-### What does the word ‘debugger’ do in your code?
+### 6- What does the word ‘debugger’ do in your code?
 - If you add a debugger to your code it will reaching that code to a breakpoint.
+
+### Resources:
+- https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4
+- https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c

@@ -54,3 +54,7 @@
 - MongoDB. because you can easily add a new data.
 ### 9. What is the disadvantage of a NoSQL database?
 - NoSQL is not a better storage solution.
+
+### Resources:
+- https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool
+- https://www.youtube.com/watch?v=ZS_kXvOeQ5Y

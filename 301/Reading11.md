@@ -49,7 +49,7 @@ To mitigate these, OAuth 2.0 provides a version of the Authorization Code Flow w
 
 - (C)  The authorization server authenticates the client and validates  the resource owner credentials, and if valid, issues an access token.
 
-### Resourses:
+### Resources:
 1. https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html
 2. https://auth0.com/docs/flows
 

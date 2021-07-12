@@ -1,21 +1,13 @@
-# reading-notes-
+# reading-notes
 
-## IBRAHIM ALHAMSHARI
+## Hi there 👋
 
-### progremmer
+**My name is Ibrahim Alhamshari. I studied mechanical engineering at Al-Balqa' Applied university, and I have six months of experience as a mechanical engineer. I am so interested in programming and currently, I'm taking an intensive course at Abdul Aziz Al Ghurair School of Advanced Computing (ASAC) to become a full-stack web developer.**
 
-**My name is Ibrahim Alhamshari , I'm 23 years old , and I am from Jordan and live in Irbid.**
+*you can contact me on [GitHub](https://github.com/ibrahim-alhamshari) or [LinkedIn](https://www.linkedin.com/in/ibrahim-alhamshari-312532176)*
 
-> " Be paitiont to learn , and when you face any problem try your bist to solve it "
+![My photo](https://www.pngkey.com/png/full/212-2125622_company-india-website-web-development-images-png.png)
 
-* I work as a programmer and i can help you to solve all problems with your website.
-
-### What Is Programming?
-> Programming is using a language that a machine can understand in order to get it to perform various tasks. Computer programming is how we communicate with machines in a way that makes them function how we need.
-
-![My photo](https://news.efinancialcareers.com/binaries/content/gallery/efinancial-careers/articles/2019/03/programmer.jpg)
-
-[For more information about me , you can visit my page on this link.](https://github.com/ibrahim-alhamshari/reading-notes-)
 
 > The reading notes for the level 102
 
@@ -30,7 +22,7 @@ Link       | class (For the level 102)
 [read06](102/read06.md)  | class6
 
 #
-> We starting today(4/4/2021) the level 201 , and these are the new reading notes.
+> We started in (4/4/2021) the level 201 , and these are the new reading notes.
 
 
 Link       | Classes (For the level 201)
@@ -53,6 +45,7 @@ Link       | Classes (For the level 201)
 
 
 ## Things I want to know more about
+
 Link        | Classes (For the level 301)
 ----------  | ------
 [Reading01](301/Reading01.md)   | Class1

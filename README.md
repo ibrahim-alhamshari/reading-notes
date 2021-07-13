@@ -1,4 +1,4 @@
-# reading-notes
+# Reading-notes
 
 ## Hi there 👋
 
@@ -44,7 +44,7 @@ Link       | Classes (For the level 201)
 [Reading14b](201/Reading14b.md) | Class15
 
 
-## Things I want to know more about
+> Things I want to know more about. (level 301)
 
 Link        | Classes (For the level 301)
 ----------  | ------

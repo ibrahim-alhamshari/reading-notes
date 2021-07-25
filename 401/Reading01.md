@@ -20,3 +20,8 @@
 
 - To create the API documentation, the captains of Java ran a program called javadoc. The javadoc program took lines like these right out of the PrintStream.java file and used the lines to make the documentation that you see in your web browser.
 - When you download the JDK, you get the javadoc program.
+
+### Resources
+1. https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html
+2. https://www.reddit.com/r/explainlikeimfive/comments/233dq5/eli5_what_does_it_mean_to_compile_code/
+3. https://www.dummies.com/programming/java/making-sense-of-javas-api-documentation/

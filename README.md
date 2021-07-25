@@ -68,3 +68,4 @@ Link        | Classes (For the level 301)
 Link        | Classes (For the level 401)
 ----------  | ------
 [Reading01](401/Reading01.md)   | Class1
+[Reading02](401/Reading02.md)   | Class2

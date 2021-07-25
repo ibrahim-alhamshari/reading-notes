@@ -57,3 +57,6 @@ Ex: `    public static void main(String[] args) {`
 3. While loop: It executes a set of statements until its boolean condition returns false.
 4. Do-while loop: It works like the while loop, but the difference is that it executes the statement firstly and then checks for the condition.
 
+### Resources
+- https://perso.ensta-paris.fr/~diam/java/online/notes-java/language/10basics/import.html
+- https://www.baeldung.com/java-loops

@@ -34,7 +34,7 @@
 1. The try must provide a handler for the exception.
 2. A method that specifies that it can throw the exception.
 
-- We have three exeptions: checked exception, error exception, runtime exception.
+- We have three exceptions: checked exception, error exception, runtime exception.
 **Note: Code that fails to honor the Catch or Specify Requirement will not compile.**
 
 **Objects of type `Scanner` are useful for breaking down formatted input into tokens and translating individual tokens according to their data type.**

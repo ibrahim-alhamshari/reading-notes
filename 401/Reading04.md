@@ -51,3 +51,8 @@
 
 **Hexadecimal numbers**
 - There are 16 of them. They look the same as the decimal numbers up to 9, but then there are the letters ("A',"B","C","D","E","F") in place of the decimal numbers 10 to 15.
+
+### Resources
+- https://docs.oracle.com/javase/tutorial/java/concepts/
+- https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html
+- https://www.mathsisfun.com/binary-decimal-hexadecimal.html

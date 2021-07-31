@@ -71,3 +71,4 @@ Link        | Classes (For the level 401)
 [Reading02](401/Reading02.md)   | Class2
 [Reading03](401/Reading03.md)   | Class3
 [Reading04](401/Reading04.md)   | Class4
+[Reading06](401/Reading06.md)   | Class6

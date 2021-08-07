@@ -13,33 +13,6 @@
 - @DeleteMapping
 - @PatchMapping
 
-
-### Manual Initialization (optional)
-**If you want to initialize the project manually rather than use the links shown earlier, follow the steps given below:**
-
-1. Navigate to [Start_Spring](https://start.spring.io.) This service pulls in all the dependencies you need for an application and does most of the setup for you.
-
-2. Choose either Gradle or Maven and the language you want to use. This guide assumes that you chose Java.
-
-3. Click Dependencies and select Spring Data JPA and then H2 Database.
-
-4. Click Generate.
-
-5. Download the resulting ZIP file, which is an archive of a web application that is configured with your choices.
-
-
-**The test**
-1. Adding the awaitility Dependency: this test require the `awaitility` library.
-2. Create a Scheduled Task : The Scheduled annotation defines when a particular method runs.
-- EX: `@Scheduled(fixedRate = 5000)`
-	`public void reportCurrentTime() {`
-		`log.info("The time is now {}", dateFormat.format(new Date()));`
-	`}`
-
-**Build an executable JAR**
-- You can run the application from the command line with Gradle or Maven. You can also build a single executable JAR file that contains all the necessary dependencies, classes, and resources and run that. 
-
-
 ### Spring Data Repositories: 
 - I will explain the difference between the three repositories, which are:
 1. CrudRepository provides CRUD functions

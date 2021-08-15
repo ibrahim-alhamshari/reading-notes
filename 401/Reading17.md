@@ -12,15 +12,15 @@
 - To make the application secure, you can add Spring Security as a dependency. Since you’re wanting to do a "social" login (delegate to GitHub), you should include the Spring Security OAuth 2.0 Client starter.
 
 - Adding the Login Link in the HTML file
-
-<div class="container unauthenticated">
-  <div>
-    With GitHub: <a href="/oauth2/authorization/github">click here</a>
-  </div>
-  <div>
-    With Google: <a href="/oauth2/authorization/google">click here</a>
-  </div>
-</div>
+- **Ex:**
+- `<div class="container unauthenticated">`
+-  `<div>`
+-   `With GitHub: <a href="/oauth2/authorization/github">click here</a>`
+- `</div>`
+- `<div>`
+    `With Google: <a href="/oauth2/authorization/google">click here</a>`
+-  `</div>`
+- `</div>`
 
 - **Adding a Logout Endpoint with**
 Spring Security  support a `/logout` endpoint which will do (clear the session and invalidate the cookie).

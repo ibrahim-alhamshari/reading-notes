@@ -84,3 +84,4 @@ Link        | Classes (For the level 401)
 [Reading17](401/Reading17.md)   | Class17
 [Reading18](401/Reading18.md)   | Class18
 [Reading19](401/Reading19.md)   | Class19
+[Reading26](401/Reading26.md)   | Class26

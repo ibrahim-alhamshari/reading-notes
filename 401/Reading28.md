@@ -10,7 +10,7 @@
 
 - The **ViewHolder** is a wrapper around a View that contains the layout for an individual item in the list.
 - The **Adapter** creates ViewHolder objects as needed, and also sets the data for those views.
-- The **Adapter** and the **ViewHolder** control the by the display of the data.
+- The **Adapter** and the **ViewHolder** control the display of the data.
 
 - **To implement the adapter you need to implement(override) three methods:**
 1. `onCreateViewHolder()`: *RecyclerView* calls this method whenever it needs to create a new ViewHolder. 

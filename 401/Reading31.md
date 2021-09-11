@@ -38,5 +38,5 @@
 4. Run an Espresso test locally or Run an Espresso test with Firebase Test Lab for Android.
 
 ### Resources
-- https://developer.android.com/training/testing/espresso
-- https://developer.android.com/studio/test/espresso-test-recorder
+- [Espresso Testing](https://developer.android.com/training/testing/espresso)
+- [Espresso-test-recorder](https://developer.android.com/studio/test/espresso-test-recorder)

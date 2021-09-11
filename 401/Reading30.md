@@ -24,7 +24,7 @@
 - It accepts a key as a string, conducts the hash, and then returns the index of the array where the key/value should be placed.
 
 ### Ressources
-- https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html
-- https://www.youtube.com/watch?v=MfhjkfocRR0
-- https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/
-- https://en.wikipedia.org/wiki/Hash_table
+- [Hashtable](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html)
+- [video_HashTable](https://www.youtube.com/watch?v=MfhjkfocRR0)
+- [basics-of-hash-tables](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
+- [Hash_Table](https://en.wikipedia.org/wiki/Hash_table)

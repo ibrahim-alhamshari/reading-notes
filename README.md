@@ -94,3 +94,4 @@ Link        | Classes (For the level 401)
 [Reading33](401/Reading33.md)   | Class33
 [Reading34](401/Reading34.md)   | Class34
 [Reading35](401/Reading35.md)   | Class35
+[Reading36](401/Reading36.md)   | Class36

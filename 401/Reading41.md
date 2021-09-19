@@ -16,8 +16,8 @@
 - As my activity starts, I need to call `getIntent()` to retrieve the Intent that started the activity. I can do so at any time during the lifecycle of the activity, but I should generally do so during early callbacks such as `onCreate()` or `onStart()`.
 
 ### Return a Result
-`setResult(RESULT_COLOR_RED);`
-`finish();`
+- `setResult(RESULT_COLOR_RED);`
+- `finish();`
 
 ### Resources
 - [Intent Filters](https://developer.android.com/training/basics/intents/filters)

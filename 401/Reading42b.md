@@ -17,7 +17,7 @@ As developers, we are often one of the last lines of defense against potentially
 - This may be happen in the everyday driving where a moral snap judgment must be made.
 
 ### Do you agree or disagree with these articles?
- 1. first article: yes disagree.
+ 1. first article: I disagree.
  2. second article: I agree.
 
 ### What stuck out to you specifically from each article?

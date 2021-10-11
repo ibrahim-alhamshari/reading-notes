@@ -101,3 +101,7 @@ Link        | Classes (For the level 401)
 [Reading42](401/Reading42.md)   | Class42
 [Reading42b](401/Reading42b.md)   | Class42b
 [Reading43](401/Reading43.md)   | Class43
+
+> New things to learn
+
+[See this file]()

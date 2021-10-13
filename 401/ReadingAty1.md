@@ -91,3 +91,13 @@ System.out.println(isEven); // Same compile-error because the non-final variable
 @Override annotation assures that the subclass method is overriding the parent class method. If it is not so, compile time error occurs.
 ```
 
+- What is the Difference Between 1D and 2D Array?
+  1. 1D array or single dimensional array stores a list of variables of the same data type. It is possible to access each variable using the index.
+    * Ex: int numbers = new int[10];
+
+  2. 2D array or multi-dimensional array stores data in a format consisting of rows and columns.
+    * Ex: int[][] numbers = new int[2][3];
+
+> A built-in function is a method that is already implemented by the package that we import. Ex: `import java.util.Collections`;
+
+> In the Java language, the JVM memory is divided into several sections, one of them called *stack memory*. When a method is called, a **frame** is created with the information for that method, and this frame is placed on *top* of the *stack memory*. And when this method is finished, the stack frame for this method is removed from the stack and the flow of control returns to the previous method in the stack.
